@@ -25,3 +25,13 @@ body {
 .name {
     color: #ffffff;
 }
+
+.nav-list {
+    position: absolute;
+    right: 300px;
+    padding: 40px;
+} 
+
+.nav-item {
+    display: inline;
+}
