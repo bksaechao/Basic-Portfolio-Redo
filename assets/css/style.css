@@ -38,10 +38,19 @@ body {
     position: absolute;
     right: 249px;
     padding: 40px;
-} 
-
-.nav-item {
     display: inline;
+}
+
+.nav-list a {
+    text-decoration: none;
+    color: #999;
+    border-left: 1px solid #efefef;
+    margin-left: 15px;
+    padding-left: 15px;
+}
+
+.nav-list a:first-child {
+    border-left: none;
 }
 
 /* Main Section */
