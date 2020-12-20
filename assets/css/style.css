@@ -46,6 +46,7 @@ body {
 
 /* Main Section */
 #main-container {
+    min-height: calc(100vh - 70px);
 }
 
 .container {
@@ -64,7 +65,7 @@ body {
 
 #float-image {
     float: left;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-right: 25px;
 }
 
@@ -77,6 +78,13 @@ h2 {
     border-bottom: 3px solid #dddddd;
 }
 
-hr {
-    di;
+/* Footer */
+.footer {
+    height: 50px;
+    background: #666666;
+    font-size: 12px;
+    border-top: 8px solid #4aaaa5;
+    text-align: center;
+    color: #cccccc;
+    padding: 30px 0;
 }
