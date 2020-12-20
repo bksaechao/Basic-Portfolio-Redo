@@ -14,13 +14,17 @@ body {
 /* Banner */
 .banner {
     position: absolute;
-    padding: 10px;
+    padding: 32px;
     background: #4aaaa5;
     left: 288px;
+    font-size: 30px;
 }
 
 .name {
     color: #ffffff;
+    text-decoration: none;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 700;
 }
 
 /* Nav */
@@ -41,6 +45,9 @@ body {
 }
 
 /* Main Section */
+#main-container {
+}
+
 .container {
     width: 100%;
     max-width: 960px;
@@ -59,4 +66,17 @@ body {
     float: left;
     margin-top: 20px;
     margin-right: 25px;
+}
+
+h2 {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 30px;
+    padding-bottom: 20px;
+    font-weight: 700;
+    color: #4aaaa5;
+    border-bottom: 3px solid #dddddd;
+}
+
+hr {
+    di;
 }
