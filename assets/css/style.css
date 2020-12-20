@@ -28,10 +28,13 @@ body {
 }
 
 /* Nav */
-.nav {
-    position: relative;
+.navbar {
+    position: sticky;
     border-bottom: 2px solid #cccccc;
     height: 100px;
+    overflow: hidden;
+    top: 0;
+    background: #ffffff;
 }
 
 .nav-list {
@@ -53,8 +56,10 @@ body {
     border-left: none;
 }
 
+
 /* Main Section */
 #main-container {
+    padding-top: 90px;
     min-height: calc(100vh - 70px);
 }
 
