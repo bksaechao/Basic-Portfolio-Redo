@@ -78,6 +78,7 @@ body {
     padding: 30px;
     border: 1px solid #cccccc;
     background-color: #ffffff;
+    margin-bottom: 40px;
 }
 
 #float-image {
@@ -95,19 +96,7 @@ h2 {
     border-bottom: 3px solid #dddddd;
 }
 
-/* Footer */
-.footer {
-    height: 50px;
-    background: #666666;
-    font-size: 12px;
-    border-top: 8px solid #4aaaa5;
-    text-align: center;
-    color: #cccccc;
-    padding: 30px 0;
-}
-
 /* Contact Form */
-
 #name,
 #email,
 textarea {
@@ -153,4 +142,16 @@ h3 {
     width: 100%;
     padding: 15px;
     font-size: 18px;
+}
+
+/* Footer */
+.footer {
+    height: 50px;
+    clear: both;
+    background: #666666;
+    font-size: 12px;
+    border-top: 8px solid #4aaaa5;
+    text-align: center;
+    color: #cccccc;
+    padding: 30px 0;
 }
