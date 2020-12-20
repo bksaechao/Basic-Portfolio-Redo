@@ -9,29 +9,41 @@ body {
     padding: 0;
 }
 
-.nav {
-    position: relative;
-    border-bottom: 2px solid #cccccc;
-    height: 89px;
-}
-
+/* Banner */
 .banner {
     position: absolute;
     padding: 10px;
     background: #4aaaa5;
-    left: 300px;
+    left: 288px;
 }
 
 .name {
     color: #ffffff;
 }
 
+/* Nav */
+.nav {
+    position: relative;
+    border-bottom: 2px solid #cccccc;
+    height: 89px;
+}
+
 .nav-list {
     position: absolute;
-    right: 300px;
+    right: 249px;
     padding: 40px;
 } 
 
 .nav-item {
     display: inline;
+}
+
+/* Main Section */
+.container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+    padding: 20px;
+    border: 1px solid #cccccc;
 }
