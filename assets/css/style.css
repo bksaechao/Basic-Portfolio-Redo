@@ -14,7 +14,7 @@ body {
 /* Banner */
 .banner {
     position: absolute;
-    padding: 32px;
+    padding: 30px;
     background: #4aaaa5;
     left: 288px;
     font-size: 30px;
@@ -31,10 +31,12 @@ body {
 .navbar {
     position: sticky;
     border-bottom: 2px solid #cccccc;
-    height: 100px;
+    height: 96px;
     overflow: hidden;
     top: 0;
     background: #ffffff;
+    z-index: 99;
+    margin-bottom: 30px;
 }
 
 .nav-list {
@@ -59,8 +61,7 @@ body {
 
 /* Main Section */
 #main-container {
-    padding-top: 90px;
-    min-height: calc(100vh - 70px);
+    min-height: calc(100vh - 150px);
 }
 
 .container {
