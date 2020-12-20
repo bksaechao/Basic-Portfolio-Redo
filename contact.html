@@ -22,7 +22,24 @@
     <!-- Main Content -->
     <div id="main-container" class="container">
         <div class="main-content">
-            <h2>About Me</h2>
+            <h2>Contact</h2>
+            <form class="contact-form">
+                <ul>
+                    <li>
+                        <lable for="name">Name</lable>
+                        <input type="text" id="name" name="name" placeholder="Your Name Here" required="required">
+                    </li>
+                    <li>
+                        <lable for="email">Email</lable>
+                        <input type="email" id="email" name="email" placeholder="email@example.com" required="required">
+                    </li>
+                    <li>
+                        <lable for="message">Message</lable>
+                        <textarea type="text" id="message" name="message" placeholder="Message Here" required="required"></textarea>
+                    </li>
+                </ul>
+                <input id="submit" type="submit">
+            </form>
         </div>
     </div>
     
