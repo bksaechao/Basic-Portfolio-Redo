@@ -15,7 +15,7 @@
 <img src="assets/images/portfolio-contact.png" height="250" width="400" alt="contact">
 </p>
 
-### *Follow up notes*
+### *(Follow up notes)*
 <ul>
   <li>
     My goal was to replicate the assignments styles and colors as close as possible
