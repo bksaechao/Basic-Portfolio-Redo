@@ -91,6 +91,7 @@ h2 {
     font-family: Georgia, Times, "Times New Roman", serif;
     font-size: 30px;
     padding-bottom: 20px;
+    margin-bottom: 20px;
     font-weight: 700;
     color: #4aaaa5;
     border-bottom: 3px solid #dddddd;
@@ -139,7 +140,7 @@ textarea {
 
 h3 {
     position: absolute;
-    bottom: 1%;
+    bottom: 10%;
     text-align: center;
     color: #ffffff;
     background: #66cac5;
