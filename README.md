@@ -4,10 +4,13 @@
 ## Project Details & Requirements
 <ul>
 <li>
-Build a professional portfolio site using HTML/CSS with the provided examples as a guide.
+<strong>Build a professional portfolio site using HTML/CSS with the provided examples as a guide.</strong>
 </li>
 </ul>
 
-<img src="assets/images/portfolio-about-me.png" height="200" width="300" alt="portfolio">
-<img src="assets/images/portfolio-gallery.png" height="200" width="300" alt="projects">
-<img src="assets/images/portfolio-contact.png" height="200" width="300" alt="contact">
+
+<p float="left">
+<img src="assets/images/portfolio-about-me.png" height="250" width="400" alt="portfolio">
+<img src="assets/images/portfolio-gallery.png" height="250" width="400" alt="projects">
+<img src="assets/images/portfolio-contact.png" height="250" width="400" alt="contact">
+</p>
