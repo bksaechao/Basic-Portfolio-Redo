@@ -1,5 +1,5 @@
 # Basic-Portfolio-Redo
-<p>This project is the first of many future projects in an attempt to revisit past coding assignments completed in the UC Davis Coding Boot Camp. The goal is to redo each "homework" assignment with <strong>cleaner</strong> and <strong>efficient</strong> code. View my finished project <a target="_blank" href="https://bksaechao.github.io/Basic-Portfolio-Redo/">here</a></p>
+<p>This project is the first of many future projects in an attempt to revisit past coding assignments completed in the UC Davis Coding Boot Camp. The goal is to redo each "homework" assignment with <strong>cleaner</strong> and <strong>efficient</strong> code. View my finished project</p>
 
 ## Project Details & Requirements
 <ul>
