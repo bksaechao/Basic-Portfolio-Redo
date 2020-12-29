@@ -105,6 +105,10 @@ textarea {
     width: 100%;
 }
 
+li {
+    list-style-type: none;
+}
+
 textarea {
     height: 150px;
 }
