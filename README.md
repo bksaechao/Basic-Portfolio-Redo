@@ -6,6 +6,11 @@
    </li>
    <li>
      <a href="https://bksaechao.github.io/Basic-Portfolio/">Previous Version</a>
+    <ul>
+     <li>
+      <a href="https://github.com/bksaechao/Basic-Portfolio">Github</a>
+     </li>
+    </ul>
    </li>
  </ul>
 
@@ -26,9 +31,9 @@
 ### *(Follow up notes)*
 <ul>
   <li>
-    My goal was to replicate the assignments styles and colors as close as possible
+    The previous version is asthetically more pleasing IMO, but the code in the redo is much more efficient and cleaner
   </li>
   <li>
-    The goal of using cleaner and efficient code was achieved!
+    Success!
   </li>
 </ul>
